@@ -1,0 +1,41 @@
+.forma
+{
+    margin-left: 20px;
+}
+
+.dugmence{
+
+    margin-top: 15px;
+    border: 1px solid #800000;
+    border-radius: 10px;
+    background-color:#620000;
+    color:white;
+
+   
+   
+}
+
+.dugmence:hover{
+    background-color: #800000;
+}
+
+.kontejner{
+    margin-top: 20px;
+  
+}
+
+h2{
+    color: #800000;
+}
+
+body{
+    font-family:  Helvetica, sans-serif;
+    
+}
+
+.prikaz{
+    padding:15px;
+    text-align: center;
+    border:3px solid black;
+}
+
